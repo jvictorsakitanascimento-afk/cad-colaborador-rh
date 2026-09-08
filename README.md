@@ -1,1 +1,1 @@
-# cad-colaborador-rh
+# Sistema de cadastro e bonificação de novos colaboradores
